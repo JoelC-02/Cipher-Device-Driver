@@ -1,0 +1,1 @@
+cmd_/home/joelc/CN/cipher_driver/cipher.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/joelc/CN/cipher_driver/cipher.ko /home/joelc/CN/cipher_driver/cipher.o /home/joelc/CN/cipher_driver/cipher.mod.o;  true
